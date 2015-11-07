@@ -2,6 +2,7 @@ markdown:           kramdown
 highlighter:        rouge
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 
 # we generate those files ourselves
 exclude:
